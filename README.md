@@ -31,9 +31,8 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/fifa420111?logo=GitHub&style=for-the-badge)
 
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
-
-<a href="https://github.com/fifa420111">
- <img align="center" src="" alt="Ashutosh's github stats"/>
+<a href="https://github.com/hiashutoshsingh">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=fifa420111&show_icons=true&theme=gotham&line_height=27" alt="Ashutosh's github stats"/>
 
 ## Languages & Frameworks :wrench:
 <p align="center">
