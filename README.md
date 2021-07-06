@@ -1,4 +1,4 @@
-Hey, This is <b>Xusanboy</b>, and welcome to my Github profile. I've profound knowledge in <i>Mobile application development</i>. I love to solve problems and highly enthusiastic about learning new things and trying out new ideas. Furthermore, I am passionate about Learning New Technology and like to learn anything about different programming languages, frameworks, algorithms, data structures, design patterns.
+Hey, this is Husanboy and welcome to my Github profile. I have in-depth knowledge of backand software development. I love problem solving and am very passionate about learning new things and trying new ideas. I also love learning new technologies and know everything about different programming languages, frameworks, algorithms, data structures, design patterns.
 
 
 Here are some ideas to get you started:
