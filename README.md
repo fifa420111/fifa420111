@@ -3,6 +3,9 @@ Hey, this is Husanboy and welcome to my Github profile. I have in-depth knowledg
 
 Here are some ideas to get you started:
 <ul>
+	<li>
+     <b>🔭 Currently working on: Laravel (php)
+   </li>
 <li>
      <b>🔭 Currently working on:</b>  <b><i>Android</i></b> (Java, Kotlin), <b><i>Cross-platform-App</b></i> (Flutter).
    </li>
