@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/fifa420111">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fifa420111&show_icons=true&theme=gotham&line_height=27" alt="Ashutosh's github stats"/>
 
+	<a href="https://github.com/fifa420111">
+  <img align="center" src="https://github-readme-stats-deploy-jeremykenedy.vercel.app/api/top-langs/?username=jeremykenedy&layout=compact&bg_color=30,444444,222222&title_color=fff&text_color=fff&custom_title=What%20I%20Do%20Most&hide_border=true" />
+</a>
+
 
 <!-- <a href="https://github.com/fifa420111">
   <img align="center" src="https://en4ykvpnng7c9b7.m.pipedream.net" />
