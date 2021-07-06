@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <!-- <a href="https://github.com/fifa420111">
   <img align="center" src="https://en4ykvpnng7c9b7.m.pipedream.net" />
 </a> -->
-## Languages & Frameworks :wrench:
+<p align="center">## Languages & Frameworks :wrench:</p>
 <p align="center">
 	<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
