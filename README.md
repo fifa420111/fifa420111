@@ -37,14 +37,9 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/fifa420111">
-  <img align="center" src="https://github-readme-stats-deploy-fifa420111.vercel.app/api/top-langs/?username=fifa420111&layout=compact&bg_color=30,444444,222222&title_color=fff&text_color=fff&custom_title=What%20I%20Do%20Most&hide_border=true" />
-</a>
-<!-- <a href="https://github.com/fifa420111">
   <img align="center" src="https://en4ykvpnng7c9b7.m.pipedream.net" />
-</a> -->
+</a>
 
-<br>
-</br>
 <p align="center">## Languages & Frameworks :wrench:</p>
 <p align="center">
 	<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
