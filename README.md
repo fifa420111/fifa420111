@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Temur5319436&show_icons=true&count_private=true)   -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fifa420111)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fifa420111)   -->
 
 <!-- ![Profile views](https://gpvc.arturio.dev/fifa420111)   -->
 
