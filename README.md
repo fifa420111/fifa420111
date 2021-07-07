@@ -55,6 +55,15 @@ Here are some ideas to get you started:
 
 <br/>
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temur5319436)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Temur5319436&show_icons=true&count_private=true)   -->
+
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Temur5319436)   -->
+
+![Profile views](https://gpvc.arturio.dev/fifa420111)  
+
+
 <!-- ## Let's Connect :coffee: -->
 <!-- <p align="center">
 	<a href="https://github.com/Soumyadeep21"><img height=50 src="./images/github.png" alt="GitHub"/></a>
