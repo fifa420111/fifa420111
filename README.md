@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fifa420111) -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fifa420111)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temur5319436)](https://github.com/anuraghazra/github-readme-stats) --> 
 
