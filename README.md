@@ -69,11 +69,11 @@ Here are some ideas to get you started:
 
 ## Let's Connect :coffee:
 <p align="center">
-	<a href="https://github.com/Soumyadeep21"><img height=50 src="./images/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/soumyadeep-sinha-80362416b/"><img height=50 src="./images/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://instagram.com/s.o.u.m.y.a.d.e.e.p/"><img height=50 src="./images/instagram.png" alt="instagram"/></a>
-	<a href="https://twitter.com/IISoumyadeepII"><img height=50 src="./images/twitter.png" alt="Twitter"/></a>
-    <a href="https://discordapp.com/users/299846223609987072/"><img height=50 src="./images/discord.png" alt="Discord"/></a>
+	<a href="https://github.com/fifa420111"><img height=50 src="./images/github.png" alt="GitHub"/></a>
+<!-- 	<a href="https://www.linkedin.com/in/soumyadeep-sinha-80362416b/"><img height=50 src="./images/linkedin.png" alt="LinkedIn"/></a> -->
+	<a href="https://instagram.com/Khusanboy__/"><img height=50 src="./images/instagram.png" alt="instagram"/></a>
+	<a href="https://facebook.com/KhusanboyJ"><img height=50 src="./images/facebook.png" alt="Twitter"/></a>
+<!--     <a href="https://discordapp.com/users/299846223609987072/"><img height=50 src="./images/discord.png" alt="Discord"/></a> -->
    
 </p>
 
