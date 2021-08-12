@@ -31,17 +31,17 @@ Here are some ideas to get you started:
    </li>
 </ul>
 
-<!-- 
-![GitHub followers](https://img.shields.io/github/followers/fifa420111?logo=GitHub&style=for-the-badge) -->
-<p align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/fifa420111?logo=GitHub&style=for-the-badge) 
+
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <a href="https://github.com/fifa420111">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=fifa420111&show_icons=true&theme=gotham&line_height=27" alt="Ashutosh's github stats"/> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=fifa420111&show_icons=true&theme=gotham&line_height=27" alt="Ashutosh's github stats"/> 
 </a>
-</p>
+
 
 <br/>
-<!-- <p align="center">## Languages & Frameworks :wrench:</p>
+<p align="center">## Languages & Frameworks :wrench:</p>
 <p align="center">
 	<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png">
 	<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-</p> -->
+</p>
 
 <br/>
 
