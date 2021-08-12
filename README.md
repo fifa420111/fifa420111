@@ -40,8 +40,7 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fifa420111&show_icons=true&theme=gotham&line_height=27" alt="Ashutosh's github stats"/> 
 </a>
 </br>
-
-
+</br>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fifa420111)](https://github.com/anuraghazra/github-readme-stats)
 
