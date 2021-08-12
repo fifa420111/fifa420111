@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 
 
 
-<p align="right"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fifa420111)](https://github.com/anuraghazra/github-readme-stats)</p> 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fifa420111)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="right">![GitHub stats](https://github-readme-stats.vercel.app/api?username=fifa420111&show_icons=true&count_private=true) </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fifa420111&show_icons=true&count_private=true) 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fifa420111)
 
