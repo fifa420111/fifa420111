@@ -31,8 +31,8 @@ Here are some ideas to get you started:
    </li>
 </ul>
 
-
-![GitHub followers](https://img.shields.io/github/followers/fifa420111?logo=GitHub&style=for-the-badge)
+<!-- 
+![GitHub followers](https://img.shields.io/github/followers/fifa420111?logo=GitHub&style=for-the-badge) -->
 <p align="center">
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <a href="https://github.com/fifa420111">
