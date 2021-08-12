@@ -39,9 +39,15 @@ Here are some ideas to get you started:
 <a href="https://github.com/fifa420111">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fifa420111&show_icons=true&theme=gotham&line_height=27" alt="Ashutosh's github stats"/> 
 </a>
-
-
 </br>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fifa420111)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fifa420111)](https://github.com/anuraghazra/github-readme-stats) 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fifa420111&show_icons=true&count_private=true)  
+
+</p>
+<br/>
 <p align="center">## Languages & Frameworks :wrench:</p>
 <p align="center">
 	<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png">
@@ -55,18 +61,7 @@ Here are some ideas to get you started:
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 </p>
-
 </br>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fifa420111)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fifa420111)](https://github.com/anuraghazra/github-readme-stats) 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fifa420111&show_icons=true&count_private=true)  
-
-
-
-
 ## Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/fifa420111"><img height=50 src="./images/github.png" alt="GitHub"/></a>
@@ -74,7 +69,5 @@ Here are some ideas to get you started:
 	<a href="https://instagram.com/Khusanboy__/"><img height=50 src="./images/instagram.png" alt="instagram"/></a>
 	<a href="https://facebook.com/KhusanboyJ"><img height=50 src="./images/facebook.png" alt="facebook"/></a>
 <!--     <a href="https://discordapp.com/users/299846223609987072/"><img height=50 src="./images/discord.png" alt="Discord"/></a> -->
-   
-</p>
 
-<br/>
+
