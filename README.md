@@ -24,7 +24,6 @@ Here are some ideas to get you started:
    <li>
      <b>📫 How to reach me: </b> shoot a mail.
    </li>
-   
    <li>
      <b>⚡ Fun fact:  </b> I honestly think mochas are the best beverage mankind has created.
    </li>
