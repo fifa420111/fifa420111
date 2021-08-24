@@ -29,7 +29,6 @@ Here are some ideas to get you started:
    </li>
 </ul>
 
-
 ![GitHub followers](https://img.shields.io/github/followers/fifa420111?logo=GitHub&style=for-the-badge) 
 ![Profile views](https://gpvc.arturio.dev/fifa420111)  
 
