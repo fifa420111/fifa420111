@@ -72,4 +72,3 @@ Here are some ideas to get you started:
 	<a href="https://facebook.com/KhusanboyJ"><img height=50 src="./images/facebook.png" alt="facebook"/></a>
 <!--     <a href="https://discordapp.com/users/299846223609987072/"><img height=50 src="./images/discord.png" alt="Discord"/></a> -->
 
-
