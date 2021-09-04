@@ -66,4 +66,4 @@ Here are some ideas to get you started:
 <!-- 	<a href="https://www.linkedin.com/in/soumyadeep-sinha-80362416b/"><img height=50 src="./images/linkedin.png" alt="LinkedIn"/></a> -->
 	<a href="https://instagram.com/Khusanboy__/"><img height=50 src="./images/instagram.png" alt="instagram"/></a>
 	<a href="https://facebook.com/KhusanboyJ"><img height=50 src="./images/facebook.png" alt="facebook"/></a>
-    <a href="https://ru.stackoverflow.com//users/299846223609987072/"><img height=50 src="./images/stackoverflow.png" alt="stackoverflow"/></a>
+    <a href="https://stackoverflow.com/users/16828272/%d0%a5%d1%83%d1%81%d0%b0%d0%bd%d0%b1%d0%be%d0%b9-%d0%96%d1%83%d1%80%d0%b0%d0%b1%d0%be%d0%b5%d0%b2"><img height=50 src="./images/stackoverflow.png" alt="stackoverflow"/></a>
